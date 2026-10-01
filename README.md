@@ -23,4 +23,4 @@
 [![Racha de commits](https://streak-stats.demolab.com/?user=naelalba&theme=tokyonight&hide_border=true)](https://github.com/naelalba)
 
 ### 🚀 Proyectos Destacados
-[![Crucigrama CSP](https://github-readme-stats.vercel.app/api/pin/?username=naelalba&repo=csp-crossword-algorithm&theme=tokyonight&hide_border=true)](https://github.com/naelalba/csp-crossword-algorithm)
+[![Crucigrama CSP](https://github-readme-stats.vercel.app/api/pin/?username=naelalba&repo=csp-crossword-algorithm&theme=tokyonight&hide_border=true&v=1)](https://github.com/naelalba/csp-crossword-algorithm)
